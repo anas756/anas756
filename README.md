@@ -39,7 +39,13 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZ6dG82N2l5NjhzMDE0Znd0Z2Fua20yaTU2dWtwcmZkanEwOGF4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BgKEiHf1xNV0h6IcSX/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
-### $ ls projects
+## 📂 ls projects
+
+| Repository Name | Description |
+|-----------------|-------------|
+| [React-Projects](https://github.com/anas756/React-Projects) | Collection of React projects covering components, hooks, state management, and UI practice. |
+| [JavaScript](https://github.com/anas756/JavaScript) | JavaScript projects focused on core concepts, DOM manipulation, logic building, and fundamentals. |
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
 
