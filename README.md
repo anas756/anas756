@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/anas-dawdi-138865280/)
 [![Instagram](https://img.shields.io/badge/instagram-orange)](https://www.instagram.com/man1muslim/)
 
-![Coding GIF](https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWkzbWJpZDVmNWtjdmI1dmY4N3I1dnBhcGEwN3VvbnB3cDU2a3RucyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif" width="300" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
 
