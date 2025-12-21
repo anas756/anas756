@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/anas-dawdi-138865280/)
 [![Instagram](https://img.shields.io/badge/instagram-orange)](https://www.instagram.com/man1muslim/)
 
-<img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="300"/>
+![Coding GIF](https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif)
 
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
 
