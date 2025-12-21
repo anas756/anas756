@@ -2,9 +2,9 @@
 
 ### 🚀 About Me
 - 🎓 Digital Development student at OFPPT
-- 💻 Interested in Web Development
-- 🛒 E-commerce & Shopify experience
-- 📈 Learning trading & online business
+- 💻 Focused on Web Development
+- 🧠 Learning PHP, JavaScript, and MySQL
+- 🛠 Building small projects to improve my coding skills
 
 ---
 
