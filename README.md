@@ -34,7 +34,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/anas-dawdi-138865280/)
 [![Instagram](https://img.shields.io/badge/instagram-orange)](https://www.instagram.com/man1muslim/)
 
-<img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" height="180" />
+### 💻 Currently Coding
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZ6dG82N2l5NjhzMDE0Znd0Z2Fua20yaTU2dWtwcmZkanEwOGF4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BgKEiHf1xNV0h6IcSX/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
 
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
 
