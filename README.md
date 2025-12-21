@@ -39,6 +39,8 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZ6dG82N2l5NjhzMDE0Znd0Z2Fua20yaTU2dWtwcmZkanEwOGF4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BgKEiHf1xNV0h6IcSX/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
+### $ ls projects
+
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas756&layout=compact&theme=dark)
