@@ -14,8 +14,11 @@
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-purple)
-![MySQL](https://img.shields.io/badge/MySQL-lightblue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+![React](https://img.shields.io/badge/React-61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4)
+![Python](https://img.shields.io/badge/Python-3776AB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
 
 ---
 
@@ -31,8 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/anas-dawdi-138865280/)
 [![Instagram](https://img.shields.io/badge/instagram-orange)](https://www.instagram.com/man1muslim/)
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjh5eHR2NHYzdmd3MXg0YW1tdDVybDIwcjJycjJndGpzMmxxc2RwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif)" width="300"/>
-
+<img src="https://media.giphy.com/media/ML15sUZFNyMy0Yv55m/giphy.gif" width="300"/>
 
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
 
