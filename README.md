@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Anas%20Dawdi&fontColor=ffffff&fontSize=40" />
 </p>
-## Hi there, I'm Anas 👋
+### Hi there, I'm Anas 👋
 
 ### 🚀 About Me
 - 🎓 Digital Development student at **ISTA EL HANK**
