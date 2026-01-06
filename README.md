@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Anas%20Dawdi&fontColor=ffffff&fontSize=40" />
+</p>
 ## Hi there, I'm Anas 👋
 
 ### 🚀 About Me
@@ -23,9 +26,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Anas%20Dawdi&fontColor=ffffff&fontSize=40" />
-</p>
+![Snake animation](https://github.com/anas756/anas756/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
