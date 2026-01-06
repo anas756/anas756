@@ -23,7 +23,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas756&show_icons=true&theme=dark&cache_seconds=1800)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=180&section=header&text=Anas%20Dawdi&fontColor=ffffff&fontSize=40" />
+</p>
 
 ---
 
