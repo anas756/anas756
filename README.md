@@ -23,7 +23,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas756&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas756&show_icons=true&theme=dark&cache_seconds=1800)
 
 ---
 
@@ -53,4 +53,4 @@
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas756&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas756&layout=compact&theme=dark&cache_seconds=1800)
