@@ -25,12 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Snake animation](https://github.com/anas756/anas756/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ### 📫 Contact Me
 - 📧 Email: **anastislane@gmail.com**
 - 🌍 Location: **Morocco**
@@ -57,4 +51,3 @@
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=anas756&color=blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas756&layout=compact&theme=dark&cache_seconds=1800)
