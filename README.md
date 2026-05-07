@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 🎓 Digital Development student at **ISTA EL HANK**
 - 💻 Focused on **Web Development**
-- ⚙️ Backend: **PHP & Python**
+- ⚙️ Backend: **Laravel, PHP, Python**
 - 🎨 Frontend: **HTML, CSS, JavaScript, Bootstrap, React**
 - 🗄️ Database: **MySQL**
 - 🛠️ Building small projects to improve my coding skills
@@ -50,6 +50,8 @@
 |------------|-------------|
 | [React-Projects](https://github.com/anas756/React-Projects) | Collection of React projects covering components, hooks, state management, and UI practice |
 | [JavaScript](https://github.com/anas756/JavaScript) | JavaScript projects focused on core concepts, DOM manipulation, and logic building |
+| [Laravel-Projects](https://github.com/anas756/Laravel-Projects) | still Building here... |
+
 
 ---
 
